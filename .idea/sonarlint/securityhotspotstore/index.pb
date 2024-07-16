@@ -1,0 +1,23 @@
+
+~
+Nsrc/main/java/org/javadominicana/provider/impl/TextFileDataSourceProvider.java,b/a/ba34721cc1b4980f3dc143285986c9593c7d711b
+c
+3src/main/java/org/javadominicana/provider/Main.java,f/4/f4115e89d7dd2c753f97f433cf6c14363b4b9893
+k
+;src/main/java/org/javadominicana/provider/PDFProcessor.java,1/5/15f5968cac6d7988fe80cda89976e1c2662e1ba2
+~
+Nsrc/main/java/org/javadominicana/provider/impl/DatabaseDataSourceProvider.java,1/d/1d885d4320259d4fe2e54b17e1d1362b1cf01430
+{
+Ksrc/main/java/org/javadominicana/provider/impl/ExcelDataSourceProvider.java,1/4/14f4421f30bd8c211e1a87cfe7293f5972fd1075
+q
+Asrc/main/java/org/javadominicana/provider/DataSourceProvider.java,8/c/8c2c6ec1de13917a2727184cff47aed8bc06bc0d
+]
+-src/main/java/org/javadominicana/RowData.java,b/5/b5a364d7f501e13f783708bfefcfd2f0ce519f16
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+b
+2src/main/java/org/javadominicana/PDFProcessor.java,a/4/a48068959ddb01f20ffa98df77302f5221b0c0ca
+Z
+*src/main/java/org/javadominicana/Main.java,5/2/5221ffe9e539e604a8d87589cd880f2f10b69806
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
